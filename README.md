@@ -4,7 +4,7 @@ Task: Predict whether a customer will buy a product or not for the Banking.csv d
 
 *NOTE: Using statsmodel will give you easier access to the violations of classical assumptions.* 
 
-**To do: **
+**To do:**
 
 - Apply all visualizations relevant for a discrete target variable. 
 - Write your hypothesis based on visualization analyses. 
